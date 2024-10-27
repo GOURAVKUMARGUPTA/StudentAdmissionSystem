@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+a{
+    color: white;
+}
+a:hover
+{
+    color: white;
+}
+
+/*Home Page Css Start*/
+
+#outerDiv
+{
+    margin: 20px;
+    border: 2px solid blue;
+    height: auto;
+    border-radius: 15px;
+}
+#innerDiv{
+    background-color: blue;
+    height: 30px;
+    width: 100%;
+    color: white;
+    border-top-left-radius:15px;
+    border-top-right-radius:15px;
+}
+
+
+/*Home Page Css Stop*/
